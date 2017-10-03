@@ -44,4 +44,17 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 - *LinkedIn:* http://ae.linkedin.com/in/ritenvagadiya
 - *OS Project:* http://github.com/ritenv/atwork
 
+------------
+
+**Bhavesh Anand**
+/ Full-Stack (Python, Golang, React.js)
+
+- *Personal:* https://bhaveshan.github.io
+- *GitHub:* http://github.com/bhaveshAn
+- *Twitter:* http://twitter.com/BhaveshAnand11
+- *LinkedIn:* https://www.linkedin.com/in/bhavesh-anand-556b9568/
+- *OS Project:* http://github.com/kivy/plyer | http://github.com/bhaveshAn/bhaveshAn.github.io | http://github.com/bhaveshAn/crisscross
+
+
+
 
